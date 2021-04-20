@@ -12,8 +12,8 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/washimimizuku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=washimimizuku&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku" />
 </a>
 <a href="https://github.com/washimimizuku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=washimimizuku&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/convoychat/?username=washimimizuku" />
 </a>
