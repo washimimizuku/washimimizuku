@@ -14,6 +14,7 @@
 <a href="https://github.com/washimimizuku">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku" />
 </a>
+
 <a href="https://github.com/washimimizuku">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=washimimizuku" />
 </a>
