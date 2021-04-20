@@ -12,7 +12,7 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/washimimizuku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&hide=Java,CSS" />
 </a>
 
 <a href="https://github.com/washimimizuku">
