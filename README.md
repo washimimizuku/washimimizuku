@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on being a better Enginnering Manager
+- 🔭 I’m currently working on being a better Engineering Manager
 - 🌱 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I love scientific illustrations
