@@ -12,9 +12,9 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/washimimizuku">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&hide=Java,CSS&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&hide=Java,CSS,SCSS&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
 </a>
-
+<br />
 <a href="https://github.com/washimimizuku">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=washimimizuku&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Nuno Barreto's GitHub Stats" />
 </a>
