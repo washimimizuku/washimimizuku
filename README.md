@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on becoming a better Manager
+- 🔭 I’m currently working on Lexers, Parsers and Interpreters
 - 🌱 I’m currently learning Rust and how to create programming languages, as well as practicing Python
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I love scientific illustrations
