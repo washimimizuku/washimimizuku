@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Lexers, Parsers and Interpreters.
-- 🌱 I’m also learning Rust, as well as practicing Python and Javascript/Typescript.
+- 🌱 I’m also learning **Rust**, as well as practicing **Python** and **Javascript**/**Typescript**.
 - 👯 If you have an open source project where you think I could help, tell me.
 - 🏞 Hobbies: Watercolor painting (specially scientific illustrations) and hiking.
 
