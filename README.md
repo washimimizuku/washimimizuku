@@ -12,5 +12,5 @@
 ## Programming Languages
 
 <a href="https://github.com/washimimizuku">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&langs_count=10&hide=CSS,SCSS,HTML,EJS,Twig,Jinja,Smarty,Handlebars&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&langs_count=10&hide=CSS,SCSS,HTML,EJS,Twig,Jinja,Smarty,Handlebars,Hack&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
 </a>
