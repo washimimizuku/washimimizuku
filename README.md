@@ -10,8 +10,9 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/nbarr)
 
 ## Statistics
-
-<a href="https://github.com/washimimizuku">
+<p>
   <img align="center" style="margin:0.5rem; right-padding:20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&layout=compact&langs_count=10&hide=CSS,SCSS,HTML,EJS,Twig,Jinja,Smarty,Handlebars,Hack&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+</p>
+<p>
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=washimimizuku&show_icons=true&theme=radical" />
-</a>
+</p>
