@@ -11,7 +11,7 @@
 
 ## Statistics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&layout=compact&langs_count=10&hide=CSS,SCSS,HTML,EJS,Twig,Jinja,Smarty,Handlebars,Hack&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&layout=compact&langs_count=10&hide=CSS,SCSS,HTML,EJS,Twig,Jinja,Smarty,Handlebars,Hack,Jupyter+Notebook&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=washimimizuku&show_icons=true&theme=radical" />
