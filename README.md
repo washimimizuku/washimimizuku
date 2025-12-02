@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍🔬 I’m currently improving my skills on **Machine Learning** and **Solutions Architecture**.
+- 🧑‍🔬 I’m currently improving my skills on **Artificial Intelligence** / **Machine Learning** (including GenAI and Agentic AI) and **Solutions Architecture**.
 - 🌱 My current programming language learning target is **Rust**, but I keep practicing **Python** and **Javascript**/**Typescript**.
 - 🔭 I am always looking out for what is coming next, specially for Cloud, Data and Web.
 - 👯 If you have an open source project where you think I could help, tell me.
