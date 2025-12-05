@@ -1,38 +1,13 @@
 ### Hello, Fellow Developers! 👋
 
-```python
-status = {
-    "focus": "AI/ML & Solutions Architecture",
-    "learning": ["Rust", "Python", "TypeScript"],
-    "passion": "Building the future with technology"
-}
-```
+🧑‍🔬 **Tech Explorer** specializing in AI/ML, GenAI, and Solutions Architecture. Building the future with code!
 
-🧑‍🔬 **Tech Explorer** | Currently diving deep into:
-- Artificial Intelligence & Machine Learning
-- Generative AI & Agentic AI Systems
-- Cloud Solutions Architecture
+🚀 **Current Focus:**
+- Mastering Rust while keeping sharp with Python & TypeScript
+- Exploring frontiers in Cloud, Data & AI technologies
+- Open for exciting open-source collaborations
 
-🚀 **Current Adventures**:
-- Mastering Rust for Data & AI
-- Strengthening Python & TypeScript expertise
-- Exploring cutting-edge Cloud, Data & AI technologies
-
-💡 **Always Ready To**:
-- Collaborate on innovative open-source projects
-- Share knowledge and learn from the community
-- Tackle challenging technical problems
-
-🎨 **Beyond Code**:
-- Scientific illustration (watercolor & ink)
-- Nature enthusiast: Trail hiking & bird watching
-- Blending art, nature, and technology
-
-📫 **Open to exciting collaborations and discussions about:**
-- Open Source Projects
-- AI/ML Innovations
-- Cloud Architecture
-- Tech Community Initiatives
+🎨 **Beyond Code:** Scientific illustration (watercolor & ink), bird watching, and hiking enthusiast.
 
 Let's build something amazing together! 🌟
 
