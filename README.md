@@ -1,9 +1,9 @@
 ### Hello, Fellow Developers! 👋
 
-🧑‍🔬 **Tech Explorer** specializing in AI/ML, GenAI, and Solutions Architecture. Building the future with code!
+🧑‍🔬 **Tech Explorer** specializing in **Data**, **AI/ML**, **GenAI**, and **Solutions Architecture**. Building the future with code!
 
 🚀 **Current Focus:**
-- Mastering Rust while keeping sharp with Python & TypeScript
+- Mastering **Rust** while keeping sharp with **Python** & **TypeScript / JavaScript**
 - Exploring frontiers in Cloud, Data & AI technologies
 - Open for exciting open-source collaborations
 
