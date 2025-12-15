@@ -7,12 +7,9 @@
 - Exploring frontiers in Cloud, Data & AI technologies
 - Open for exciting open-source collaborations
 
-## 🎯 Current Projects
-
-**Active Learning Bootcamps:**
+🎯 **Current Projects:**
 - 🧬 [Conservation Biology Toolkit](https://github.com/washimimizuku/conservation-biology-toolkit) - Comprehensive tools for conservation research and analysis
-- 🤖 [Data AI Mastery](https://github.com/washimimizuku/data-ai-mastery) - Advanced data science and AI learning journey
-- 📊 **Associated Bootcamps:** [30-Days Python Data AI](https://github.com/washimimizuku/30-days-python-data-ai), [30-Days SQL Data AI](https://github.com/washimimizuku/30-days-sql-data-ai), [60-Days Advanced Data AI](https://github.com/washimimizuku/60-days-advanced-data-ai), and more
+- 🤖 [Data AI Mastery](https://github.com/washimimizuku/data-ai-mastery) - Advanced data science and AI learning journey through beginner to advanced bootcamps.
 
 *Building expertise through hands-on projects and real-world applications*
 
