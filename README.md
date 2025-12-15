@@ -3,15 +3,12 @@
 🧑‍🔬 **Tech Explorer** specializing in **Data**, **AI/ML**, **GenAI**, and **Solutions Architecture**. Building the future with code!
 
 🚀 **Current Focus:**
-- Learning **Rust** while keeping sharp with **Python** & **TypeScript / JavaScript**
+- Improving Data and AI expertise through hands-on projects and real-world applications
 - Exploring frontiers in Cloud, Data & AI technologies
-- Open for exciting open-source collaborations
+- Learning **Rust** while keeping sharp with **Python** & **TypeScript / JavaScript**
 
 🎯 **Current Projects:**
 - 🧬 [Conservation Biology Toolkit](https://github.com/washimimizuku/conservation-biology-toolkit) - Comprehensive tools for conservation research and analysis
-- 🤖 [Data AI Mastery](https://github.com/washimimizuku/data-ai-mastery) - Advanced data science and AI learning journey through beginner to advanced bootcamps.
-
-*Building expertise through hands-on projects and real-world applications*
 
 🎨 **Beyond Code:** Scientific illustration (watercolor & ink), bird watching, and hiking enthusiast.
 
