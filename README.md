@@ -22,5 +22,5 @@ Let's build something amazing together! 🌟
 
 ## Statistics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&layout=compact&langs_count=6&hide=HTML,CSS,PHP,Dart,Shell&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&layout=compact&langs_count=6&hide=HTML,CSS,PHP,Shell,Jupyter%20Notebook&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
 </p>
