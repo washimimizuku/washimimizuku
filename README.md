@@ -1,9 +1,9 @@
 ### Hello, Fellow Developers! 👋
 
-🧑‍💻 Solutions Architect & Engineering Leader with 25+ years in tech. Computer Science + Environmental Science background. Passionate about Data, AI/ML, GenAI, and building impactful solutions across Healthcare, Life Sciences, and beyond.
+🧑‍💻 Strategic Technical Leader at AWS working with Data, AI/ML, and GenAI. 25+ years in technology with CS + Environmental Science background. Passionate about leveraging tech for conservation challenges.
 
 🚀 **Current Focus:**
-- Building advanced Data & AI expertise through progressive bootcamps and production projects
+- Developing progressive Data & AI bootcamps to teach others while advancing my own expertise
 - Mastering cloud-native architectures and cutting-edge Data and AI technologies
 - Expanding into **Rust** while maintaining proficiency in **Python**, **SQL** & **TypeScript/JavaScript**
 
