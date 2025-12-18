@@ -1,6 +1,6 @@
 ### Hello, Fellow Developers! 👋
 
-🧑🔬 Conservation Biologist & Tech Explorer specializing in Data, AI/ML, GenAI, and Solutions Architecture. Building the future with code!
+🧑‍💻 Solutions Architect & Engineering Leader with 25+ years in tech. Computer Science + Environmental Science background. Passionate about Data, AI/ML, GenAI, and building impactful solutions across Healthcare, Life Sciences, and beyond.
 
 🚀 **Current Focus:**
 - Building advanced Data & AI expertise through progressive bootcamps and production projects
