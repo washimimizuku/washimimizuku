@@ -1,4 +1,4 @@
-### Hello, Fellow Developers! 👋
+### Hello, Fellow Builders! 👋
 
 🧑‍💻 Strategic Technical Leader at AWS working with Data, AI/ML, and GenAI. 25+ years in technology with CS + Environmental Science background. Passionate about leveraging tech for conservation challenges.
 
