@@ -20,7 +20,9 @@ Let's build something amazing together! 🌟
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://medium.com/@nbarr)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/nbarr)
 
+<!--
 ## Statistics
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washimimizuku&layout=compact&langs_count=6&hide=HTML,CSS,EJS,PHP,Dart,Jupyter%20Notebook&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
 </p>
+-->
